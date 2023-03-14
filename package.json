@@ -22,7 +22,7 @@
 
   },
   "devDependencies": {
-    "nodemon": "^2.0.12",
-    "node":"19.5.0"
+    "nodemon": "^2.0.12"
+   
   }
 }

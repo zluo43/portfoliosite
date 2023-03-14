@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const {projects} = require('./data.json');
+const PORT = process.env.PORT || 3000;
 
 
 
@@ -80,8 +81,7 @@ app.use((err, req, res, next) =>{
 // });
 
 //start your server. 
-app.listen(3000, function (){
-  console.log('The application is listening to port 3000')
- })
+app.listen( PORT, function () {
+});
 
 
