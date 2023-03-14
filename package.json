@@ -1,5 +1,5 @@
 {
-  "name": "techdegree_p6",
+  "name": "portfoliositenpm",
   "version": "1.0.0",
   "description": "A portfolio site made with Node.js and Express",
   "main": "app.js",
